@@ -1,0 +1,351 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.hero-P9H {
+  width: 100%;
+  height: 195rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.hero-P9H .bg-planets-1-ZCB {
+  width: 144rem;
+  height: 99.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-planets-1-bg.png');
+}
+.hero-P9H .ellipse-1-JSb {
+  width: 49.7rem;
+  height: 45.6rem;
+  position: absolute;
+  left: 102.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .logo-ciB {
+  width: 22.6rem;
+  height: 25.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 6.2rem;
+}
+.hero-P9H .hello-its-me-nicks--kJb {
+  width: 33.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 26rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-P9H .danica-mae-de-guzman-YVM {
+  width: 64.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 9rem;
+  top: 31rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-P9H .web-developer-graphic-designer-Ed5 {
+  width: 57.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 39.6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffff00;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-P9H .description--LRD {
+  width: 66.9rem;
+  height: 30.2641rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 46.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .rectangle-1-Fo5 {
+  width: 28.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 82.2rem;
+  background-color: #ffd600;
+}
+.hero-P9H .download-cv-yUB {
+  width: 20.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 44.4rem;
+  top: 83.1rem;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.2022535276;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-P9H .retangle-2-5XD {
+  width: 28.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 82.2rem;
+  background-color: #ffd600;
+}
+.hero-P9H .explore-my-work-C63 {
+  width: 25.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 83rem;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.2022535276;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-P9H .figma-dp-FKD {
+  width: 29.5rem;
+  height: 47.4rem;
+  position: absolute;
+  left: 78rem;
+  top: 21.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.hero-P9H .navi-xDd {
+  width: 59.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 72.3rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+}
+.hero-P9H .navi-xDd .home-4nT {
+  margin: 0rem 10.3rem 0.2rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-P9H .navi-xDd .about-y8j {
+  margin-right: 6.7rem;
+  font-size: 2.2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-P9H .navi-xDd .works-Vsm {
+  margin: 0.2rem 7.6rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-P9H .navi-xDd .contact-271 {
+  margin-top: 0.2rem;
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-P9H .desktop-1-kYo {
+  width: 142.8rem;
+  height: 95.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 105.8rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.hero-P9H .bg-planets-2-poZ {
+  width: 164rem;
+  height: 96.8rem;
+  position: absolute;
+  left: 0;
+  top: 99.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-P9H .about-me--9aw {
+  width: 31.5rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 56.5rem;
+  top: 104.7rem;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-P9H .hello-im-danica-mae-s-de-guzman-G9m {
+  width: 79.6rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 115.2rem;
+  font-size: 5.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.hero-P9H .n-1-kKq {
+  width: 45.3rem;
+  height: 57.7rem;
+  position: absolute;
+  left: 95.7rem;
+  top: 132.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-P9H .i-am-deeply-committed-to-learned-more-when-it-comes-to-programming-to-have-a-better-opportunities-to-further-enhance-my-skills-and-broaden-my-knowledge-to-contribute-the-success-throughout-my-future-career-i-have-courage-to-solve-any-kind-of-different-problem-solving-and-thrive-in-dynamic-environment-where-creativity-abilities-and-innovation-are-valued-GZ5 {
+  width: 74.2rem;
+  height: 45rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 131rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+}
+.hero-P9H .facebook-bDy {
+  width: 6.3327rem;
+  height: 6.626rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 182.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .instagram-J8P {
+  width: 7.2782rem;
+  height: 6.5388rem;
+  position: absolute;
+  left: 26.7113rem;
+  top: 182.9806rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .vector-bNP {
+  width: 2.4274rem;
+  height: 2.1772rem;
+  position: absolute;
+  left: 29.1339rem;
+  top: 185.1538rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .gmail-ihu {
+  width: 7.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 40.7rem;
+  top: 182.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .youtube-f7M {
+  width: 8rem;
+  height: 7rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 182.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .javascript-Cd5 {
+  width: 8.0474rem;
+  height: 9.4018rem;
+  position: absolute;
+  left: 81.6rem;
+  top: 168.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .css-XvF {
+  width: 8.328rem;
+  height: 7.3615rem;
+  position: absolute;
+  left: 81.3357rem;
+  top: 154.4965rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-P9H .html-g2T {
+  width: 7.2091rem;
+  height: 7.5649rem;
+  position: absolute;
+  left: 81.8957rem;
+  top: 139.3676rem;
+  object-fit: contain;
+  vertical-align: top;
+}
